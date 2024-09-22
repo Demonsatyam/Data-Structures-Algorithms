@@ -29,7 +29,3 @@ Operators:
 
 Introduction to operators in C++: arithmetic, relational, logical, and assignment operators.
 Learn how to manipulate data using these operators.
-Standard Template Library (STL):
-
-Introduction to STL in C++.
-Learn about containers (like vectors, stacks, queues, maps) and their use cases.
