@@ -6,6 +6,8 @@ Data Structures and Algorithms repository focused on implementing and understand
 Data Structures and Algorithms
 Welcome to the Data Structures and Algorithms (DSA) repository! This repository is designed to help you strengthen your problem-solving skills and grasp the core concepts of DSA using C++. Whether you are a beginner or preparing for competitive coding or technical interviews, this repo is for you.
 
+<!-- draw a line  -->
+----------------------------------------------------------------------------------------------
 
 📝 Day 1: Introduction to Basics and STL
 Topics to be covered: 
