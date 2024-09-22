@@ -8,24 +8,19 @@ Welcome to the Data Structures and Algorithms (DSA) repository! This repository 
 
 
 📝 Day 1: Introduction to Basics and STL
-Topics to be covered:
-Flowcharts:
+Topics to be covered: 
 
-Visual representation of the steps involved in an algorithm or process.
+Flowcharts: Visual representation of the steps involved in an algorithm or process.
 We'll discuss how to create flowcharts to visualize logic.
-Pseudocode:
 
-An informal way to describe algorithms.
+Pseudocode: An informal way to describe algorithms.
 Write simple pseudocode to break down complex problems into understandable steps.
-Variables:
 
-Learn about variables, their declaration, and usage in C++.
+Variables: Learn about variables, their declaration, and usage in C++.
 Understand how variables store data and how to assign values to them.
-Data Types:
 
-Explore various data types in C++ like integers, floats, chars, and booleans.
+Data Types: Explore various data types in C++ like integers, floats, chars, and booleans.
 Understand when and how to use different data types effectively.
-Operators:
 
-Introduction to operators in C++: arithmetic, relational, logical, and assignment operators.
+Operators: Introduction to operators in C++: arithmetic, relational, logical, and assignment operators.
 Learn how to manipulate data using these operators.
