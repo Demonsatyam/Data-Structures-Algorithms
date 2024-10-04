@@ -1,1 +1,2 @@
 C++ is a **case-sensitive** language, meaning the case in which you write your code matters. For example, writing a function or variable in lowercase must remain lowercase, and the same goes for uppercase. If you change `example` to `Example`, they are treated as completely different. Languages like **C++**, **Java**, and **Python** are case-sensitive, unlike **HTML** or **JavaScript**, which are not.
+
